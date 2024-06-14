@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#canvas1 {
+  border: 5px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #4d79bc;
+  max-width: 100%; /*suppose here i provided width and height of the this canvas is more than this slide than it will over-sized and so here by this it will remains into the boundary*/
+  max-height: 100%;
+}
+
+#layer1,
+#layer2,
+#layer3,
+#layer4,
+#player,
+#angler1,
+#angler2,
+#lucky {
+  display: none;
+}
