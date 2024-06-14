@@ -4,6 +4,11 @@
 
 This is a canvas-based shooting game built using vanilla JavaScript. The player controls a character that can shoot projectiles at enemies appearing on the screen. The game includes multiple features such as power-ups, different types of enemies, and a scoring system. The game's visual elements are rendered using the HTML5 Canvas API.
 
+## Video Description
+https://github.com/PDARSHIL312/JS-Shooting-Game/assets/137078389/a8a7bf71-17de-4a9e-bb21-3a0c90f69d31
+
+
+
 ## Features
 
 - **Player Control**: Move the player character up and down using the arrow keys.
